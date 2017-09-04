@@ -1,0 +1,455 @@
+** Drc report for /Users/Vikas/learning/circuit/openiotboard/board/board.kicad_pcb **
+** Created on 2017-08-13 16:01:30 **
+
+** Found 148 DRC errors **
+ErrType(4): Track near pad
+    @ (124.675 mm,74.215 mm): Track 0.300 mm, net [GND] (2) on layer F.Cu, length: 1.610 mm
+    @ (124.175 mm,74.215 mm): Pad 100 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (124.675 mm,72.605 mm): Track 0.300 mm, net [GND] (2) on layer F.Cu, length: 3.896 mm
+    @ (125.175 mm,72.390 mm): Track 0.300 mm, net [Net-(C9-Pad1)] (8) on layer F.Cu, length: 1.825 mm
+ErrType(4): Track near pad
+    @ (122.475 mm,80.915 mm): Track 0.300 mm, net [GND] (2) on layer F.Cu, length: 4.730 mm
+    @ (122.475 mm,80.415 mm): Pad 10 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (127.175 mm,89.615 mm): Track 0.300 mm, net [GND] (2) on layer F.Cu, length: 1.810 mm
+    @ (126.675 mm,89.615 mm): Pad 31 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (133.675 mm,75.255 mm): Track 0.300 mm, net [GND] (2) on layer F.Cu, length: 1.336 mm
+    @ (133.175 mm,74.215 mm): Track 0.300 mm, net [AIN15] (137) on layer F.Cu, length: 1.459 mm
+ErrType(4): Track near pad
+    @ (133.675 mm,74.215 mm): Track 0.300 mm, net [GND] (2) on layer F.Cu, length: 1.040 mm
+    @ (134.175 mm,74.215 mm): Pad 80 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (137.875 mm,82.415 mm): Track 0.300 mm, net [GND] (2) on layer F.Cu, length: 1.036 mm
+    @ (137.875 mm,82.915 mm): Pad 61 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (138.911 mm,82.415 mm): Track 0.300 mm, net [GND] (2) on layer F.Cu, length: 0.265 mm
+    @ (137.875 mm,81.915 mm): Track 0.300 mm, net [GPRS_TX] (149) on layer F.Cu, length: 7.848 mm
+ErrType(5): Track near via
+    @ (81.280 mm,76.470 mm): Track 0.300 mm, net [GND] (2) on layer F.Cu, length: 4.600 mm
+    @ (78.740 mm,75.820 mm): Via 0.600 mm net [Net-(D6-Pad1)] (24) on layers F.Cu/B.Cu
+ErrType(4): Track near pad
+    @ (124.175 mm,75.915 mm): Track 0.300 mm, net [+5V] (3) on layer F.Cu, length: 1.700 mm
+    @ (124.675 mm,74.215 mm): Pad 99 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (134.175 mm,74.215 mm): Track 0.300 mm, net [+5V] (3) on layer F.Cu, length: 1.380 mm
+    @ (133.675 mm,74.215 mm): Pad 81 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (126.675 mm,89.615 mm): Track 0.300 mm, net [+5V] (3) on layer F.Cu, length: 1.348 mm
+    @ (127.175 mm,89.615 mm): Pad 32 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (122.475 mm,80.415 mm): Track 0.300 mm, net [+5V] (3) on layer F.Cu, length: 2.230 mm
+    @ (122.475 mm,80.915 mm): Pad 11 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (137.875 mm,82.915 mm): Track 0.300 mm, net [+5V] (3) on layer F.Cu, length: 1.050 mm
+    @ (137.875 mm,82.415 mm): Pad 62 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (124.175 mm,74.215 mm): Track 0.300 mm, net [+5V] (3) on layer F.Cu, length: 0.450 mm
+    @ (124.675 mm,74.215 mm): Pad 99 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (127.675 mm,89.615 mm): Track 0.300 mm, net [Net-(C6-Pad1)] (5) on layer F.Cu, length: 5.470 mm
+    @ (127.175 mm,89.615 mm): Pad 32 on F.Cu, Non-copper of U3
+ErrType(16): Two track ends too close
+    @ (128.175 mm,94.817 mm): Track 0.300 mm, net [Net-(C7-Pad1)] (6) on layer F.Cu, length: 4.152 mm
+    @ (128.675 mm,93.115 mm): Track 0.300 mm, net [Net-(J4-Pad8)] (101) on layer F.Cu, length: 1.223 mm
+ErrType(4): Track near pad
+    @ (128.175 mm,90.665 mm): Track 0.300 mm, net [Net-(C7-Pad1)] (6) on layer F.Cu, length: 1.050 mm
+    @ (127.675 mm,89.615 mm): Pad 33 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (126.175 mm,89.615 mm): Track 0.300 mm, net [RESET] (7) on layer F.Cu, length: 0.843 mm
+    @ (126.675 mm,89.615 mm): Pad 31 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (126.175 mm,90.458 mm): Track 0.300 mm, net [RESET] (7) on layer F.Cu, length: 0.000 mm
+    @ (125.675 mm,90.665 mm): Track 0.300 mm, net [/controller/ENABLE_LED_DRIVERS] (156) on layer F.Cu, length: 1.050 mm
+ErrType(4): Track near pad
+    @ (125.175 mm,72.390 mm): Track 0.300 mm, net [Net-(C9-Pad1)] (8) on layer F.Cu, length: 1.825 mm
+    @ (125.675 mm,74.215 mm): Pad 97 on F.Cu, Non-copper of U3
+ErrType(18): Two track ends too close
+    @ (124.460 mm,71.675 mm): Track 0.300 mm, net [Net-(C9-Pad1)] (8) on layer F.Cu, length: 1.011 mm
+    @ (125.675 mm,69.850 mm): Track 0.300 mm, net [AIN0] (11) on layer F.Cu, length: 4.365 mm
+ErrType(4): Track near pad
+    @ (125.675 mm,69.850 mm): Track 0.300 mm, net [AIN0] (11) on layer F.Cu, length: 4.365 mm
+    @ (126.175 mm,74.215 mm): Pad 96 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (126.175 mm,71.120 mm): Track 0.300 mm, net [AIN1] (12) on layer F.Cu, length: 3.095 mm
+    @ (125.675 mm,74.215 mm): Pad 97 on F.Cu, Non-copper of U3
+ErrType(16): Two track ends too close
+    @ (126.175 mm,70.675 mm): Track 0.300 mm, net [AIN1] (12) on layer F.Cu, length: 0.445 mm
+    @ (127.500 mm,70.295 mm): Track 0.300 mm, net [AIN2] (13) on layer F.Cu, length: 1.167 mm
+ErrType(4): Track near pad
+    @ (126.675 mm,73.165 mm): Track 0.300 mm, net [AIN2] (13) on layer F.Cu, length: 1.050 mm
+    @ (126.175 mm,74.215 mm): Pad 96 on F.Cu, Non-copper of U3
+ErrType(16): Two track ends too close
+    @ (126.675 mm,71.120 mm): Track 0.300 mm, net [AIN2] (13) on layer F.Cu, length: 2.045 mm
+    @ (127.175 mm,71.364 mm): Track 0.300 mm, net [AIN3] (14) on layer F.Cu, length: 2.466 mm
+ErrType(4): Track near pad
+    @ (127.175 mm,74.215 mm): Track 0.300 mm, net [AIN3] (14) on layer F.Cu, length: 2.851 mm
+    @ (126.675 mm,74.215 mm): Pad 95 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (127.675 mm,74.215 mm): Track 0.300 mm, net [AIN4] (15) on layer F.Cu, length: 2.644 mm
+    @ (127.175 mm,74.215 mm): Pad 94 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (128.675 mm,73.165 mm): Track 0.300 mm, net [AIN6] (16) on layer F.Cu, length: 2.892 mm
+    @ (128.175 mm,74.215 mm): Track 0.300 mm, net [AIN5] (17) on layer F.Cu, length: 2.437 mm
+ErrType(4): Track near pad
+    @ (128.675 mm,74.215 mm): Track 0.300 mm, net [AIN6] (16) on layer F.Cu, length: 1.050 mm
+    @ (128.175 mm,74.215 mm): Pad 92 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (128.175 mm,74.215 mm): Track 0.300 mm, net [AIN5] (17) on layer F.Cu, length: 2.437 mm
+    @ (127.675 mm,74.215 mm): Pad 93 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (139.562 mm,76.415 mm): Track 0.300 mm, net [LCD_RS] (26) on layer F.Cu, length: 0.884 mm
+    @ (137.875 mm,76.915 mm): Track 0.300 mm, net [LCD_RW] (27) on layer F.Cu, length: 1.894 mm
+ErrType(4): Track near pad
+    @ (137.875 mm,76.415 mm): Track 0.300 mm, net [LCD_RS] (26) on layer F.Cu, length: 1.687 mm
+    @ (137.875 mm,75.915 mm): Pad 75 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (137.875 mm,76.915 mm): Track 0.300 mm, net [LCD_RW] (27) on layer F.Cu, length: 1.894 mm
+    @ (137.875 mm,77.415 mm): Pad 72 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (139.769 mm,76.915 mm): Track 0.300 mm, net [LCD_RW] (27) on layer F.Cu, length: 0.672 mm
+    @ (137.875 mm,77.415 mm): Track 0.300 mm, net [LCD_ENABLE] (28) on layer F.Cu, length: 2.101 mm
+ErrType(17): Two track ends too close
+    @ (139.976 mm,77.415 mm): Track 0.300 mm, net [LCD_ENABLE] (28) on layer F.Cu, length: 0.672 mm
+    @ (137.875 mm,77.915 mm): Track 0.300 mm, net [LCD_BKLIGHT_CTRL] (157) on layer F.Cu, length: 2.308 mm
+ErrType(4): Track near pad
+    @ (137.875 mm,77.415 mm): Track 0.300 mm, net [LCD_ENABLE] (28) on layer F.Cu, length: 2.101 mm
+    @ (137.875 mm,77.915 mm): Pad 71 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (135.175 mm,74.215 mm): Track 0.300 mm, net [LCD_DATA1] (29) on layer F.Cu, length: 1.312 mm
+    @ (135.675 mm,74.215 mm): Pad 77 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (135.675 mm,73.312 mm): Track 0.300 mm, net [LCD_DATA2] (30) on layer F.Cu, length: 0.903 mm
+    @ (135.175 mm,74.215 mm): Pad 78 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (136.175 mm,74.215 mm): Track 0.300 mm, net [LCD_DATA3] (31) on layer F.Cu, length: 4.080 mm
+    @ (135.675 mm,74.215 mm): Pad 77 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (137.875 mm,75.915 mm): Track 0.300 mm, net [LCD_DATA4] (32) on layer F.Cu, length: 0.840 mm
+    @ (137.875 mm,76.415 mm): Pad 74 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (137.875 mm,75.915 mm): Track 0.300 mm, net [LCD_DATA4] (32) on layer F.Cu, length: 0.600 mm
+    @ (137.875 mm,76.415 mm): Pad 74 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (138.925 mm,86.915 mm): Track 0.300 mm, net [LED1] (37) on layer F.Cu, length: 1.050 mm
+    @ (137.875 mm,86.415 mm): Pad 54 on F.Cu, Non-copper of U3
+ErrType(16): Two track ends too close
+    @ (140.255 mm,86.915 mm): Track 0.300 mm, net [LED1] (37) on layer F.Cu, length: 1.330 mm
+    @ (139.485 mm,87.415 mm): Track 0.300 mm, net [LED24] (82) on layer F.Cu, length: 0.304 mm
+ErrType(18): Two track ends too close
+    @ (141.066 mm,87.726 mm): Track 0.300 mm, net [LED1] (37) on layer F.Cu, length: 1.147 mm
+    @ (141.025 mm,86.415 mm): Track 0.300 mm, net [LED2] (40) on layer F.Cu, length: 3.150 mm
+ErrType(18): Two track ends too close
+    @ (142.240 mm,87.630 mm): Track 0.300 mm, net [LED2] (40) on layer F.Cu, length: 1.718 mm
+    @ (137.875 mm,85.915 mm): Track 0.300 mm, net [LED3] (45) on layer F.Cu, length: 3.679 mm
+ErrType(4): Track near pad
+    @ (141.025 mm,86.415 mm): Track 0.300 mm, net [LED2] (40) on layer F.Cu, length: 3.150 mm
+    @ (137.875 mm,86.915 mm): Pad 53 on F.Cu, Non-copper of U3
+ErrType(5): Track near via
+    @ (123.825 mm,123.825 mm): Track 0.350 mm, net [LED_VCC] (41) on layer F.Cu, length: 6.350 mm
+    @ (121.920 mm,124.500 mm): Via 0.600 mm net [LED5] (46) on layers F.Cu/B.Cu
+ErrType(16): Two track ends too close
+    @ (168.910 mm,133.350 mm): Track 0.300 mm, net [LED_VCC] (41) on layer F.Cu, length: 7.184 mm
+    @ (164.465 mm,140.970 mm): Track 0.350 mm, net [Net-(IC3-Pad6)] (56) on layer F.Cu, length: 7.620 mm
+ErrType(4): Track near pad
+    @ (137.875 mm,85.415 mm): Track 0.300 mm, net [LED4] (42) on layer F.Cu, length: 2.770 mm
+    @ (137.875 mm,85.915 mm): Pad 55 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (140.645 mm,85.415 mm): Track 0.300 mm, net [LED4] (42) on layer F.Cu, length: 0.460 mm
+    @ (137.875 mm,85.915 mm): Track 0.300 mm, net [LED3] (45) on layer F.Cu, length: 3.679 mm
+ErrType(4): Track near pad
+    @ (137.875 mm,85.915 mm): Track 0.300 mm, net [LED3] (45) on layer F.Cu, length: 3.679 mm
+    @ (137.875 mm,86.415 mm): Pad 54 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (137.875 mm,84.915 mm): Track 0.300 mm, net [LED5] (46) on layer F.Cu, length: 2.563 mm
+    @ (137.875 mm,85.415 mm): Pad 56 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (137.875 mm,84.415 mm): Track 0.300 mm, net [LED6] (49) on layer F.Cu, length: 2.356 mm
+    @ (137.875 mm,84.915 mm): Pad 57 on F.Cu, Non-copper of U3
+ErrType(18): Two track ends too close
+    @ (140.142 mm,83.090 mm): Track 0.300 mm, net [LED8] (50) on layer F.Cu, length: 0.460 mm
+    @ (137.875 mm,83.915 mm): Track 0.300 mm, net [LED7] (53) on layer F.Cu, length: 2.149 mm
+ErrType(4): Track near pad
+    @ (138.925 mm,83.415 mm): Track 0.300 mm, net [LED8] (50) on layer F.Cu, length: 1.050 mm
+    @ (137.875 mm,82.915 mm): Pad 61 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (137.875 mm,83.915 mm): Track 0.300 mm, net [LED7] (53) on layer F.Cu, length: 2.149 mm
+    @ (137.875 mm,84.415 mm): Pad 58 on F.Cu, Non-copper of U3
+ErrType(16): Two track ends too close
+    @ (132.675 mm,91.073 mm): Track 0.300 mm, net [LED9] (54) on layer F.Cu, length: 0.408 mm
+    @ (133.175 mm,90.665 mm): Track 0.300 mm, net [LED10] (57) on layer F.Cu, length: 0.071 mm
+ErrType(4): Track near pad
+    @ (132.675 mm,90.665 mm): Track 0.300 mm, net [LED9] (54) on layer F.Cu, length: 1.050 mm
+    @ (133.175 mm,89.615 mm): Pad 44 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (133.175 mm,89.615 mm): Track 0.300 mm, net [LED10] (57) on layer F.Cu, length: 1.050 mm
+    @ (133.675 mm,89.615 mm): Pad 45 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (125.175 mm,90.725 mm): Track 0.300 mm, net [LED12] (58) on layer F.Cu, length: 1.011 mm
+    @ (125.675 mm,92.231 mm): Track 0.300 mm, net [/controller/ENABLE_LED_DRIVERS] (156) on layer F.Cu, length: 1.566 mm
+ErrType(4): Track near pad
+    @ (125.175 mm,89.615 mm): Track 0.300 mm, net [LED12] (58) on layer F.Cu, length: 1.110 mm
+    @ (125.675 mm,89.615 mm): Pad 29 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (137.875 mm,78.415 mm): Track 0.300 mm, net [LED11] (61) on layer F.Cu, length: 2.770 mm
+    @ (137.875 mm,77.915 mm): Pad 71 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (140.645 mm,78.415 mm): Track 0.300 mm, net [LED11] (61) on layer F.Cu, length: 0.035 mm
+    @ (137.875 mm,78.915 mm): Track 0.300 mm, net [Net-(J3-Pad2)] (90) on layer F.Cu, length: 4.190 mm
+ErrType(4): Track near pad
+    @ (134.675 mm,89.615 mm): Track 0.300 mm, net [LED13] (62) on layer F.Cu, length: 1.050 mm
+    @ (134.175 mm,89.615 mm): Pad 46 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (134.675 mm,90.665 mm): Track 0.300 mm, net [LED13] (62) on layer F.Cu, length: 0.078 mm
+    @ (135.175 mm,89.615 mm): Track 0.300 mm, net [LED14] (65) on layer F.Cu, length: 3.087 mm
+ErrType(4): Track near pad
+    @ (135.175 mm,89.615 mm): Track 0.300 mm, net [LED14] (65) on layer F.Cu, length: 3.087 mm
+    @ (134.675 mm,89.615 mm): Pad 47 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (136.175 mm,92.288 mm): Track 0.300 mm, net [LED16] (66) on layer F.Cu, length: 2.673 mm
+    @ (135.675 mm,89.615 mm): Pad 49 on F.Cu, Non-copper of U3
+ErrType(18): Two track ends too close
+    @ (137.010 mm,93.123 mm): Track 0.300 mm, net [LED16] (66) on layer F.Cu, length: 1.181 mm
+    @ (135.675 mm,92.495 mm): Track 0.300 mm, net [LED15] (69) on layer F.Cu, length: 1.830 mm
+ErrType(4): Track near pad
+    @ (135.675 mm,90.665 mm): Track 0.300 mm, net [LED15] (69) on layer F.Cu, length: 1.050 mm
+    @ (135.175 mm,89.615 mm): Pad 48 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (123.553 mm,77.415 mm): Track 0.300 mm, net [LED17] (70) on layer F.Cu, length: 0.841 mm
+    @ (122.475 mm,77.915 mm): Track 0.300 mm, net [LED18] (73) on layer F.Cu, length: 1.540 mm
+ErrType(4): Track near pad
+    @ (122.475 mm,77.415 mm): Track 0.300 mm, net [LED17] (70) on layer F.Cu, length: 1.078 mm
+    @ (122.475 mm,76.915 mm): Pad 3 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (122.475 mm,77.915 mm): Track 0.300 mm, net [LED18] (73) on layer F.Cu, length: 1.540 mm
+    @ (122.475 mm,77.415 mm): Pad 4 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (124.015 mm,77.915 mm): Track 0.300 mm, net [LED18] (73) on layer F.Cu, length: 0.629 mm
+    @ (122.475 mm,78.415 mm): Track 0.300 mm, net [LED19] (77) on layer F.Cu, length: 1.698 mm
+ErrType(4): Track near pad
+    @ (122.475 mm,78.915 mm): Track 0.300 mm, net [LED20] (74) on layer F.Cu, length: 1.236 mm
+    @ (122.475 mm,78.415 mm): Pad 6 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (123.711 mm,78.915 mm): Track 0.300 mm, net [LED20] (74) on layer F.Cu, length: 0.548 mm
+    @ (122.475 mm,78.415 mm): Track 0.300 mm, net [LED19] (77) on layer F.Cu, length: 1.698 mm
+ErrType(4): Track near pad
+    @ (122.475 mm,78.915 mm): Track 0.300 mm, net [LED20] (74) on layer F.Cu, length: 1.050 mm
+    @ (122.475 mm,78.415 mm): Pad 6 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (122.475 mm,78.415 mm): Track 0.300 mm, net [LED19] (77) on layer F.Cu, length: 1.698 mm
+    @ (122.475 mm,77.915 mm): Pad 5 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (121.517 mm,79.415 mm): Track 0.300 mm, net [LED21] (78) on layer F.Cu, length: 0.958 mm
+    @ (122.475 mm,78.915 mm): Pad 7 on F.Cu, Non-copper of U3
+ErrType(18): Two track ends too close
+    @ (120.650 mm,78.548 mm): Track 0.300 mm, net [LED21] (78) on layer F.Cu, length: 1.226 mm
+    @ (122.475 mm,79.915 mm): Track 0.300 mm, net [LED22] (81) on layer F.Cu, length: 1.419 mm
+ErrType(4): Track near pad
+    @ (122.475 mm,79.915 mm): Track 0.300 mm, net [LED22] (81) on layer F.Cu, length: 1.419 mm
+    @ (122.475 mm,80.415 mm): Pad 10 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (137.875 mm,87.415 mm): Track 0.300 mm, net [LED24] (82) on layer F.Cu, length: 1.610 mm
+    @ (137.875 mm,86.915 mm): Pad 53 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (138.475 mm,87.915 mm): Track 0.300 mm, net [LED23] (85) on layer F.Cu, length: 0.600 mm
+    @ (137.875 mm,87.415 mm): Pad 52 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (138.925 mm,88.365 mm): Track 0.300 mm, net [LED23] (85) on layer F.Cu, length: 0.636 mm
+    @ (137.875 mm,87.415 mm): Pad 52 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (122.475 mm,86.415 mm): Track 0.300 mm, net [/controller/MISO] (86) on layer F.Cu, length: 8.755 mm
+    @ (122.475 mm,85.915 mm): Pad 21 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (122.475 mm,85.415 mm): Track 0.300 mm, net [/controller/SCK] (87) on layer F.Cu, length: 6.580 mm
+    @ (122.475 mm,85.915 mm): Pad 21 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (121.425 mm,85.915 mm): Track 0.300 mm, net [/controller/MOSI] (88) on layer F.Cu, length: 1.050 mm
+    @ (122.475 mm,86.415 mm): Pad 22 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (134.675 mm,74.215 mm): Track 0.300 mm, net [Net-(J3-Pad1)] (89) on layer F.Cu, length: 1.195 mm
+    @ (134.175 mm,74.215 mm): Pad 80 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (142.065 mm,78.915 mm): Track 0.300 mm, net [Net-(J3-Pad2)] (90) on layer F.Cu, length: 0.032 mm
+    @ (137.875 mm,79.415 mm): Track 0.300 mm, net [Net-(J3-Pad3)] (91) on layer F.Cu, length: 6.812 mm
+ErrType(4): Track near pad
+    @ (137.875 mm,78.915 mm): Track 0.300 mm, net [Net-(J3-Pad2)] (90) on layer F.Cu, length: 4.190 mm
+    @ (137.875 mm,78.415 mm): Pad 70 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (137.875 mm,79.415 mm): Track 0.300 mm, net [Net-(J3-Pad3)] (91) on layer F.Cu, length: 6.812 mm
+    @ (137.875 mm,78.915 mm): Pad 69 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (144.687 mm,79.415 mm): Track 0.300 mm, net [Net-(J3-Pad3)] (91) on layer F.Cu, length: 0.021 mm
+    @ (137.875 mm,79.915 mm): Track 0.300 mm, net [Net-(J3-Pad4)] (92) on layer F.Cu, length: 7.020 mm
+ErrType(4): Track near pad
+    @ (137.875 mm,79.915 mm): Track 0.300 mm, net [Net-(J3-Pad4)] (92) on layer F.Cu, length: 7.020 mm
+    @ (137.875 mm,79.415 mm): Pad 68 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (144.895 mm,79.915 mm): Track 0.300 mm, net [Net-(J3-Pad4)] (92) on layer F.Cu, length: 0.021 mm
+    @ (137.875 mm,80.415 mm): Track 0.300 mm, net [Net-(J3-Pad5)] (93) on layer F.Cu, length: 7.227 mm
+ErrType(4): Track near pad
+    @ (137.875 mm,80.415 mm): Track 0.300 mm, net [Net-(J3-Pad5)] (93) on layer F.Cu, length: 7.227 mm
+    @ (137.875 mm,80.915 mm): Pad 65 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (145.102 mm,80.415 mm): Track 0.300 mm, net [Net-(J3-Pad5)] (93) on layer F.Cu, length: 0.021 mm
+    @ (137.875 mm,80.915 mm): Track 0.300 mm, net [GPRS_RESET] (146) on layer F.Cu, length: 7.434 mm
+ErrType(4): Track near pad
+    @ (132.175 mm,89.615 mm): Track 0.300 mm, net [Net-(J4-Pad1)] (94) on layer F.Cu, length: 1.890 mm
+    @ (132.675 mm,89.615 mm): Pad 43 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (131.675 mm,89.615 mm): Track 0.300 mm, net [Net-(J4-Pad2)] (95) on layer F.Cu, length: 1.120 mm
+    @ (132.175 mm,89.615 mm): Pad 42 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (131.175 mm,90.535 mm): Track 0.300 mm, net [Net-(J4-Pad3)] (96) on layer F.Cu, length: 1.280 mm
+    @ (130.675 mm,89.615 mm): Track 0.300 mm, net [Net-(J4-Pad4)] (97) on layer F.Cu, length: 1.690 mm
+ErrType(4): Track near pad
+    @ (131.175 mm,89.615 mm): Track 0.300 mm, net [Net-(J4-Pad3)] (96) on layer F.Cu, length: 0.920 mm
+    @ (131.675 mm,89.615 mm): Pad 41 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (130.675 mm,89.615 mm): Track 0.300 mm, net [Net-(J4-Pad4)] (97) on layer F.Cu, length: 1.690 mm
+    @ (131.175 mm,89.615 mm): Pad 40 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (130.175 mm,89.615 mm): Track 0.300 mm, net [Net-(J4-Pad5)] (98) on layer F.Cu, length: 1.350 mm
+    @ (130.675 mm,89.615 mm): Pad 39 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (129.675 mm,89.615 mm): Track 0.300 mm, net [Net-(J4-Pad6)] (99) on layer F.Cu, length: 1.825 mm
+    @ (130.175 mm,89.615 mm): Pad 38 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (129.675 mm,91.440 mm): Track 0.300 mm, net [Net-(J4-Pad6)] (99) on layer F.Cu, length: 0.000 mm
+    @ (129.175 mm,89.615 mm): Track 0.300 mm, net [Net-(J4-Pad7)] (100) on layer F.Cu, length: 2.760 mm
+ErrType(17): Two track ends too close
+    @ (129.175 mm,92.375 mm): Track 0.300 mm, net [Net-(J4-Pad7)] (100) on layer F.Cu, length: 0.221 mm
+    @ (128.675 mm,89.615 mm): Track 0.300 mm, net [Net-(J4-Pad8)] (101) on layer F.Cu, length: 3.500 mm
+ErrType(4): Track near pad
+    @ (129.175 mm,89.615 mm): Track 0.300 mm, net [Net-(J4-Pad7)] (100) on layer F.Cu, length: 2.760 mm
+    @ (129.675 mm,89.615 mm): Pad 37 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (128.675 mm,89.615 mm): Track 0.300 mm, net [Net-(J4-Pad8)] (101) on layer F.Cu, length: 3.500 mm
+    @ (128.175 mm,89.615 mm): Pad 34 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (124.675 mm,90.518 mm): Track 0.300 mm, net [Net-(J5-Pad1)] (102) on layer F.Cu, length: 0.903 mm
+    @ (125.175 mm,89.615 mm): Pad 28 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (119.992 mm,84.415 mm): Track 0.300 mm, net [Net-(J5-Pad2)] (103) on layer F.Cu, length: 0.424 mm
+    @ (122.475 mm,84.915 mm): Track 0.300 mm, net [Net-(J6-Pad1)] (104) on layer F.Cu, length: 2.920 mm
+ErrType(4): Track near pad
+    @ (122.475 mm,84.415 mm): Track 0.300 mm, net [Net-(J5-Pad2)] (103) on layer F.Cu, length: 2.483 mm
+    @ (122.475 mm,84.915 mm): Pad 19 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (122.475 mm,84.915 mm): Track 0.300 mm, net [Net-(J6-Pad1)] (104) on layer F.Cu, length: 2.920 mm
+    @ (122.475 mm,85.415 mm): Pad 20 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (121.425 mm,86.915 mm): Track 0.300 mm, net [Net-(J6-Pad5)] (105) on layer F.Cu, length: 1.050 mm
+    @ (122.475 mm,86.415 mm): Pad 22 on F.Cu, Non-copper of U3
+ErrType(16): Two track ends too close
+    @ (114.532 mm,86.915 mm): Track 0.300 mm, net [Net-(J6-Pad5)] (105) on layer F.Cu, length: 6.893 mm
+    @ (116.572 mm,87.415 mm): Track 0.300 mm, net [Net-(J6-Pad6)] (106) on layer F.Cu, length: 4.794 mm
+ErrType(4): Track near pad
+    @ (122.475 mm,87.415 mm): Track 0.300 mm, net [Net-(J6-Pad6)] (106) on layer F.Cu, length: 5.903 mm
+    @ (122.475 mm,86.915 mm): Pad 23 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (122.475 mm,87.915 mm): Track 0.300 mm, net [Net-(J6-Pad7)] (107) on layer F.Cu, length: 5.612 mm
+    @ (122.475 mm,87.415 mm): Pad 24 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (123.725 mm,89.615 mm): Track 0.300 mm, net [Net-(J6-Pad8)] (108) on layer F.Cu, length: 0.450 mm
+    @ (124.675 mm,89.615 mm): Pad 27 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (124.175 mm,89.615 mm): Track 0.300 mm, net [Net-(J6-Pad8)] (108) on layer F.Cu, length: 0.600 mm
+    @ (124.675 mm,89.615 mm): Pad 27 on F.Cu, Non-copper of U3
+ErrType(16): Two track ends too close
+    @ (133.675 mm,86.035 mm): Track 0.300 mm, net [/controller/RX0] (111) on layer F.Cu, length: 2.530 mm
+    @ (134.175 mm,86.805 mm): Track 0.300 mm, net [/controller/TX0] (112) on layer F.Cu, length: 2.425 mm
+ErrType(4): Track near pad
+    @ (133.675 mm,89.615 mm): Track 0.300 mm, net [/controller/RX0] (111) on layer F.Cu, length: 1.050 mm
+    @ (134.175 mm,89.615 mm): Pad 46 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (134.175 mm,89.615 mm): Track 0.300 mm, net [/controller/TX0] (112) on layer F.Cu, length: 2.810 mm
+    @ (133.675 mm,89.615 mm): Pad 45 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (129.175 mm,74.215 mm): Track 0.300 mm, net [AIN7] (129) on layer F.Cu, length: 1.080 mm
+    @ (128.675 mm,74.215 mm): Pad 91 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (129.175 mm,75.295 mm): Track 0.300 mm, net [AIN7] (129) on layer F.Cu, length: 1.280 mm
+    @ (129.675 mm,74.215 mm): Track 0.300 mm, net [AIN8] (130) on layer F.Cu, length: 1.850 mm
+ErrType(4): Track near pad
+    @ (129.675 mm,74.215 mm): Track 0.300 mm, net [AIN8] (130) on layer F.Cu, length: 1.850 mm
+    @ (129.175 mm,74.215 mm): Pad 90 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (130.175 mm,74.215 mm): Track 0.300 mm, net [AIN9] (131) on layer F.Cu, length: 1.658 mm
+    @ (130.675 mm,74.215 mm): Pad 87 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (130.675 mm,74.215 mm): Track 0.300 mm, net [AIN10] (132) on layer F.Cu, length: 1.451 mm
+    @ (131.175 mm,74.215 mm): Pad 86 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (131.175 mm,74.215 mm): Track 0.300 mm, net [AIN11] (133) on layer F.Cu, length: 1.244 mm
+    @ (130.675 mm,74.215 mm): Pad 87 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (131.675 mm,74.215 mm): Track 0.300 mm, net [AIN12] (134) on layer F.Cu, length: 1.123 mm
+    @ (131.175 mm,74.215 mm): Pad 86 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (132.175 mm,74.215 mm): Track 0.300 mm, net [AIN13] (135) on layer F.Cu, length: 1.104 mm
+    @ (131.675 mm,74.215 mm): Pad 85 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (132.675 mm,74.215 mm): Track 0.300 mm, net [AIN14] (136) on layer F.Cu, length: 2.156 mm
+    @ (132.175 mm,74.215 mm): Pad 84 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (133.175 mm,74.215 mm): Track 0.300 mm, net [AIN15] (137) on layer F.Cu, length: 1.459 mm
+    @ (132.675 mm,74.215 mm): Pad 83 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (122.475 mm,81.915 mm): Track 0.300 mm, net [WiFi_RX] (138) on layer F.Cu, length: 2.221 mm
+    @ (122.475 mm,82.415 mm): Pad 14 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (124.696 mm,81.915 mm): Track 0.300 mm, net [WiFi_RX] (138) on layer F.Cu, length: 0.728 mm
+    @ (122.475 mm,82.415 mm): Track 0.300 mm, net [WiFi_RESET] (140) on layer F.Cu, length: 2.428 mm
+ErrType(4): Track near pad
+    @ (122.475 mm,82.415 mm): Track 0.300 mm, net [WiFi_RESET] (140) on layer F.Cu, length: 2.428 mm
+    @ (122.475 mm,82.915 mm): Pad 15 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (122.475 mm,81.415 mm): Track 0.300 mm, net [WiFi_TX] (143) on layer F.Cu, length: 2.014 mm
+    @ (122.475 mm,80.915 mm): Pad 11 on F.Cu, Non-copper of U3
+ErrType(17): Two track ends too close
+    @ (145.516 mm,81.415 mm): Track 0.300 mm, net [GPRS_RX] (144) on layer F.Cu, length: 0.021 mm
+    @ (137.875 mm,81.915 mm): Track 0.300 mm, net [GPRS_TX] (149) on layer F.Cu, length: 7.848 mm
+ErrType(4): Track near pad
+    @ (137.875 mm,81.415 mm): Track 0.300 mm, net [GPRS_RX] (144) on layer F.Cu, length: 7.641 mm
+    @ (137.875 mm,80.915 mm): Pad 65 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (137.875 mm,80.915 mm): Track 0.300 mm, net [GPRS_RESET] (146) on layer F.Cu, length: 7.434 mm
+    @ (137.875 mm,81.415 mm): Pad 64 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (137.875 mm,81.915 mm): Track 0.300 mm, net [GPRS_TX] (149) on layer F.Cu, length: 7.848 mm
+    @ (137.875 mm,82.415 mm): Pad 62 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (122.475 mm,75.915 mm): Track 0.300 mm, net [RGB_LED1] (151) on layer F.Cu, length: 0.000 mm
+    @ (122.475 mm,76.415 mm): Pad 2 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (121.425 mm,82.915 mm): Track 0.300 mm, net [RGB_LED2] (152) on layer F.Cu, length: 1.050 mm
+    @ (122.475 mm,83.415 mm): Pad 16 on F.Cu, Non-copper of U3
+ErrType(18): Two track ends too close
+    @ (120.248 mm,82.550 mm): Track 0.300 mm, net [RGB_LED2] (152) on layer F.Cu, length: 0.516 mm
+    @ (120.406 mm,83.415 mm): Track 0.300 mm, net [RGB_LED3] (154) on layer F.Cu, length: 1.019 mm
+ErrType(4): Track near pad
+    @ (122.475 mm,83.915 mm): Track 0.300 mm, net [RGB_LED4] (153) on layer F.Cu, length: 2.276 mm
+    @ (122.475 mm,84.415 mm): Pad 18 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (121.425 mm,83.415 mm): Track 0.300 mm, net [RGB_LED3] (154) on layer F.Cu, length: 1.050 mm
+    @ (122.475 mm,82.915 mm): Pad 15 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (125.675 mm,90.665 mm): Track 0.300 mm, net [/controller/ENABLE_LED_DRIVERS] (156) on layer F.Cu, length: 1.050 mm
+    @ (125.175 mm,89.615 mm): Pad 28 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (137.875 mm,77.915 mm): Track 0.300 mm, net [LCD_BKLIGHT_CTRL] (157) on layer F.Cu, length: 2.308 mm
+    @ (137.875 mm,77.415 mm): Pad 72 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (122.475 mm,76.915 mm): Track 0.300 mm, net [FTDI_RX] (158) on layer F.Cu, length: 1.110 mm
+    @ (122.475 mm,76.415 mm): Pad 2 on F.Cu, Non-copper of U3
+ErrType(4): Track near pad
+    @ (121.572 mm,76.415 mm): Track 0.300 mm, net [FTDI_TX] (160) on layer F.Cu, length: 0.903 mm
+    @ (122.475 mm,76.915 mm): Pad 3 on F.Cu, Non-copper of U3
+
+** Found 1 unconnected pads **
+ErrType(2): Unconnected pads
+    @ (126.175 mm,89.615 mm): Pad 30 on F.Cu, Non-copper of U3 net RESET
+    @ (124.140 mm,62.230 mm): Pad 2 on F.Cu, Non-copper of R4
+
+** End of Report **
