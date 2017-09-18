@@ -1,2 +1,2 @@
-# Open-Robotics-Bord
+# Open-Robotics-Board
 Open robotics development board
