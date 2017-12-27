@@ -9,3 +9,6 @@ Open robotics development board
 5. On board USB port to program the board, and for serial communication.
 6. Can be power from 5V-35V.
 7. 5 analog ports with female barrel jacks(2 of them can accept high voltages, and are isolated).
+
+## Board Image
+![alt text](https://github.com/vkylamba/Open-Robotics-Board/blob/master/board.jpeg)
